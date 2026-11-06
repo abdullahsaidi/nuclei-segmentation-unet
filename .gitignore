@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.keras
+stage1_train/
+data/
